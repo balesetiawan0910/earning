@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Earn Bale
+          Earn Bale Setiawan
         </a>
       </header>
     </div>
